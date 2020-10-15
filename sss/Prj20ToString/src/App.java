@@ -33,7 +33,7 @@ public class App {
 		Frog frog2 = new Frog(5, "Roger");
 		
 		
-		// When you print an object it envokes the toString method.
+		// When you print an object it invokes the toString method.
 		System.out.println(frog1);
 		System.out.println(frog2);
 
